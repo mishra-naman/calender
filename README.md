@@ -127,16 +127,9 @@ Now open your browser and navigate to [http://localhost:3000](http://localhost:3
 
 ---
 
-## ❤️ Acknowledgments
 
-A big thank you to [Juan Pablo Machado](https://github.com/Ju4npx) for the inspiration and guidance in building this project!
-
-![Technology Stack](https://example.com/technology-stack-image.jpeg)  <!-- Replace with an actual image link -->
-
-Feel free to contribute or suggest improvements!
 
 ---
 
 ⌨️ Crafted with ❤️ by **Naman Mishra** 😊
-```
 
